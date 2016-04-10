@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\DataTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+D:\Orlinovski Tapotii\DataTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+D:\Orlinovski Tapotii\DataTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+D:\Orlinovski Tapotii\DataTypesAndVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+D:\Orlinovski Tapotii\DataTypesAndVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\DataTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+D:\Orlinovski Tapotii\DataTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+D:\Orlinovski Tapotii\DataTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+D:\Orlinovski Tapotii\DataTypesAndVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+D:\Orlinovski Tapotii\DataTypesAndVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

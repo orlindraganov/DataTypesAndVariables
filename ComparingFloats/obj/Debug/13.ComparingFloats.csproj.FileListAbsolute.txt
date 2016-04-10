@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\DataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+D:\Orlinovski Tapotii\DataTypesAndVariables\ComparingFloats\obj\Debug\13.ComparingFloats.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\DataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.exe
+D:\Orlinovski Tapotii\DataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.pdb
+D:\Orlinovski Tapotii\DataTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.exe
+D:\Orlinovski Tapotii\DataTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.pdb

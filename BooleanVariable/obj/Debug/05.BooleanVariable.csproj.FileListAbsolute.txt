@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\DataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+D:\Orlinovski Tapotii\DataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe
+D:\Orlinovski Tapotii\DataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.pdb
+D:\Orlinovski Tapotii\DataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.exe
+D:\Orlinovski Tapotii\DataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.pdb

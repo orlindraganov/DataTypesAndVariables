@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\DataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.exe.config
+D:\Orlinovski Tapotii\DataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.exe
+D:\Orlinovski Tapotii\DataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.pdb
+D:\Orlinovski Tapotii\DataTypesAndVariables\EmployeeData\obj\Debug\10.EmployeeData.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\DataTypesAndVariables\EmployeeData\obj\Debug\EmployeeData.exe
+D:\Orlinovski Tapotii\DataTypesAndVariables\EmployeeData\obj\Debug\EmployeeData.pdb

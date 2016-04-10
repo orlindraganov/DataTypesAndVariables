@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\DataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+D:\Orlinovski Tapotii\DataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+D:\Orlinovski Tapotii\DataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+D:\Orlinovski Tapotii\DataTypesAndVariables\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+D:\Orlinovski Tapotii\DataTypesAndVariables\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\DataTypesAndVariables\ASCIITable\bin\Debug\ASCIITable.exe.config
+D:\Orlinovski Tapotii\DataTypesAndVariables\ASCIITable\bin\Debug\ASCIITable.exe
+D:\Orlinovski Tapotii\DataTypesAndVariables\ASCIITable\bin\Debug\ASCIITable.pdb
+D:\Orlinovski Tapotii\DataTypesAndVariables\ASCIITable\obj\Debug\ASCIITable.exe
+D:\Orlinovski Tapotii\DataTypesAndVariables\ASCIITable\obj\Debug\ASCIITable.pdb

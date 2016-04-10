@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\DataTypesAndVariables\VariableHexadecimal\bin\Debug\VariableHexadecimal.exe.config
+D:\Orlinovski Tapotii\DataTypesAndVariables\VariableHexadecimal\bin\Debug\VariableHexadecimal.exe
+D:\Orlinovski Tapotii\DataTypesAndVariables\VariableHexadecimal\bin\Debug\VariableHexadecimal.pdb
+D:\Orlinovski Tapotii\DataTypesAndVariables\VariableHexadecimal\obj\Debug\03.VariableHexadecimal.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\DataTypesAndVariables\VariableHexadecimal\obj\Debug\VariableHexadecimal.exe
+D:\Orlinovski Tapotii\DataTypesAndVariables\VariableHexadecimal\obj\Debug\VariableHexadecimal.pdb

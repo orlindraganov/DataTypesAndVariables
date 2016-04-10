@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\DataTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+D:\Orlinovski Tapotii\DataTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+D:\Orlinovski Tapotii\DataTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+D:\Orlinovski Tapotii\DataTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+D:\Orlinovski Tapotii\DataTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb
